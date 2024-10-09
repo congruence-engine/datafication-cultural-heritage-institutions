@@ -15,7 +15,7 @@ This investigation will focus on assessing the landscape for cultural heritage c
 
 Conceptualization, Methodology, Data curation, Formal analysis, Writing 
 
-s**Daniel Belteki**
+**Daniel Belteki**
 
 Conceptualization, Methodology, Data curation, Formal analysis, Writing 
 
