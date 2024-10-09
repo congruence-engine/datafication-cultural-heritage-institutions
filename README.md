@@ -11,11 +11,17 @@ This investigation will focus on assessing the landscape for cultural heritage c
 
 ## People 
 
-Arran Rees : Conceptualization, Methodology, Data curation, Formal analysis
+**Arran Rees** 
 
-Daniel Belteki : Conceptualization, Methodology, Data curation, Formal analysis
+Conceptualization, Methodology, Data curation, Formal analysis
 
-Anna-Maria Sichani : Conceptualization, Methodology, Data curation, Formal analysis
+**Daniel Belteki** 
+
+Conceptualization, Methodology, Data curation, Formal analysis
+
+**Anna-Maria Sichani**
+
+Conceptualization, Methodology, Data curation, Formal analysis
 
 
 ## Licence 
